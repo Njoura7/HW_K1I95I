@@ -46,7 +46,7 @@ Finally, the application handles errors that may occur during the API integratio
 This project is made for the subject : system programming with the proferssor : "László Tamás Storcz"
 and this is the repo of the code:
 
-[github repo](https://twitter.com/)
+[github repo](https://github.com/Njoura7/HW_K1I95I)
 
 
 ## Authors
